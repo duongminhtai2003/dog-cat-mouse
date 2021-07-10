@@ -1,3 +1,3 @@
-function mouse(){
-	
+function mouse(name){
+	this.name = name;
 }
